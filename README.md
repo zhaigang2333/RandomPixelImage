@@ -18,8 +18,8 @@
 
 + Display：
 
-![e1](/Users/gangzhai/Desktop/js.js/RandomPixel2Image/e1.png)
+![e1]()
 
-![e2](/Users/gangzhai/Desktop/js.js/RandomPixel2Image/e2.png)
+![e2]()
 
-![e3](/Users/gangzhai/Desktop/js.js/RandomPixel2Image/e4.png)
+![e3]()
