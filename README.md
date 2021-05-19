@@ -18,8 +18,8 @@
 
 + Display：
 
-![e1]()
+![e1](https://github.com/zhaigang2333/RandomPixelImage/blob/main/e1.png)
 
-![e2]()
+![e2](https://github.com/zhaigang2333/RandomPixelImage/blob/main/e2.png)
 
-![e3]()
+![e3](https://github.com/zhaigang2333/RandomPixelImage/blob/main/e4.png)
